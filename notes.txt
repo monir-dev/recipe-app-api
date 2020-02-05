@@ -1,0 +1,20 @@
+Packages for Python:
+https://pypi.org/
+
+
+Docker Images from:
+https://hub.docker.com/
+
+
+Travis CI:
+----------
+https://travis-ci.org/
+
+
+
+Docker Commands:
+---------------
+docker build .
+docker-compose build
+docker-compose run app sh -c "django-admin.py startproject app ."
+docker-compose up
